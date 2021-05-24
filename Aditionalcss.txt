@@ -1,0 +1,56 @@
+.woocommerce-checkout .woocommerce label 
+{
+color:white;
+}
+.woocommerce-checkout  .woocommerce span
+{
+color:white;
+}
+.woocommerce-checkout .woocommerce th,td,h3
+{
+color:white;
+}
+h1{
+	color:white;
+}
+body {
+	color: white;
+}
+
+.woocommerce-cart table.shop_table .product-name a {
+	color: white;
+}
+
+.hestia-title {
+	visibility: hidden;
+}
+
+.page-template-default:not(.home) .hestia-title {
+     display: none; 
+}
+input {
+	color:black;
+}
+
+.page-header {
+	border-bottom: none !important;
+}
+
+#tab-description {
+	color: black;
+}
+
+.description {
+	color: black;
+}
+
+.woocommerce-review__author {
+	font-size: 24px;
+}
+
+.woocommerce-review__dash {
+		font-size: 24px;
+}
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__published-date {
+	font-size:24px;
+}
